@@ -8,7 +8,7 @@ O projeto consiste em demonstrar uma web chat utilizando SignalR.
 
 ## Funcionalidades
 
-O projeto conta com a página de `Api` e `PaginaWeb(HTML e Javascript)`, segue abaixo a demostração das funcionalidades adicionadas.
+O projeto conta com a `Api` e `PaginaWeb(HTML e Javascript)`, segue abaixo a demostração das funcionalidades adicionadas.
 
 <div>
   <p align="center">
