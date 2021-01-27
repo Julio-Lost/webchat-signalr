@@ -30,4 +30,4 @@ O projeto conta com a página de `Api` e `PaginaWeb(HTML e Javascript)`, segue a
 
 - Tenha o .NET SDK instalado.
 
-- Após instalado as dependências execute o comando dotnet run` ou `dotnet watch run`.
+- Após instalado as dependências execute o comando `dotnet run` ou `dotnet watch run`.
