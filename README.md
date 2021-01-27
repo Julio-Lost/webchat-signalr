@@ -4,7 +4,7 @@ Chat com AspNet Core SignalR
 
 ## Características
 
-O projeto consiste em demonstrar uma web chat utilizando SignalR.
+O projeto consiste em demonstrar um web chat utilizando SignalR.
 
 ## Funcionalidades
 
